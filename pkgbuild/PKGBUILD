@@ -1,7 +1,7 @@
-# Maintainer: Barnabé di Kartola <barnabedikartola@gmail.com>
+# Maintainer: Vilmar Catafesta <vcatafestagmail.com>
 
-pkgname=biglinux-package-template
-pkgdesc="Package template for biglinux"
+pkgname=biglinux-xfwm-axiomd-theme
+pkgdesc="Inspired by the metacity theme 'fresh'. Two xfwm themes are included, axiom for bright themes and axiomd for dark themes."
 # depends=('')
 # makedepends=('')
 # conflicts=('')
